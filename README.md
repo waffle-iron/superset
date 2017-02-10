@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/AndyPau/superset.png?label=ready&title=Ready)](https://waffle.io/AndyPau/superset)
 Superset
 =========
 
